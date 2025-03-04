@@ -23,3 +23,8 @@ To parse the raw data and convert into a more readable format I have use a JSON 
 
 │── .env  <-- (For storing database credentials)
 
+----> for Codeforces : used API keys 
+
+----> for Codechef : used web scratching since no actual API exist for it 
+
+----> for github : used API keys 
